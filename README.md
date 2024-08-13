@@ -2,9 +2,9 @@
 # Title (Please modify the title)
 ## Team
 
-| ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
+| ![전은지](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이수형](https://avatars.githubusercontent.com/u/156163982?v=4) | ![서정민](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이지윤](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이승미](https://avatars.githubusercontent.com/u/156163982?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [박패캠](https://github.com/UpstageAILab)             |            [이패캠](https://github.com/UpstageAILab)             |            [최패캠](https://github.com/UpstageAILab)             |            [김패캠](https://github.com/UpstageAILab)             |            [오패캠](https://github.com/UpstageAILab)             |
+|            [전은지](https://github.com/UpstageAILab)             |            [이수형](https://github.com/UpstageAILab)             |            [서정민](https://github.com/UpstageAILab)             |            [이지윤](https://github.com/UpstageAILab)             |            [이승미](https://github.com/UpstageAILab)             |
 |                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
 
 * **전은지(팀장)**: 팀원 서포터, 초기EDA 및 모델선정, 평가지표 설정 및 결과분석
@@ -65,8 +65,6 @@
 ## 2. Components
 
 ### Directory
-
-- _Insert your directory structure_
 
 ```
 ├──code  
